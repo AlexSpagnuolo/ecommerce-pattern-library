@@ -3,11 +3,10 @@
   --color-primary: #a19582;
   --color-primary-medium: #7d6c59;
   --color-primary-dark: #3c342b;
-  --color-white: #ffffff;
+  --color-white: #fff;
   --color-light-grey: #e4e4e4;
   --color-black: #383838;
-
-  --font-primary: Rubik, sans-serif;
+  --font-primary: rubik, sans-serif;
 }
 
 html {
