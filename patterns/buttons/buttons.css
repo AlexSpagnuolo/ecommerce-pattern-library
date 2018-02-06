@@ -1,0 +1,7 @@
+.btn {
+  background-color: var(--color-black);
+  border-color: var(--color-black);
+  border-radius: 7px;
+  color: var(--color-light-grey);
+  transition: all .15s linear;
+}
