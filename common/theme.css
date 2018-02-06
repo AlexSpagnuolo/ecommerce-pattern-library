@@ -23,9 +23,8 @@ h2 {
   font-weight: 500;
 }
 
-
 p {
-  color: var(--color-primary-medium)
+  color: var(--color-primary-medium);
 }
 
 a {
@@ -34,5 +33,5 @@ a {
 }
 
 a:hover, a:focus {
-  color: var(--color-white)
+  color: var(--color-white);
 }
