@@ -3,5 +3,17 @@
   border-color: var(--color-black);
   border-radius: 7px;
   color: var(--color-light-grey);
-  transition: all .15s linear;
+  transition: all .15s ease;
+}
+
+.btn-icon {
+  margin-left: .5rem;
+  margin-right: .1rem;
+  transition: all .15s ease;
+}
+
+.btn:hover > .icon,
+.btn:focus > .icon {
+  color: var(--color-white);
+  transform: scale(.8);
 }
