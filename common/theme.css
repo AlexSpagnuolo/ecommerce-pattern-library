@@ -35,3 +35,7 @@ a {
 a:hover, a:focus {
   color: var(--color-white);
 }
+
+mark {
+  background-color: var(--color-white);
+}
