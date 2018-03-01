@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Email address input</title>
+  <title>Phone number input</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="../../common/modules.css" rel="stylesheet">
   <link href="../../common/grid.css" rel="stylesheet">
@@ -23,11 +23,11 @@
   </div>
 
 <div class>
-  <label class="inline-block pad-b-1-4" for="email">Email address</label>
-  <input class="push-1-4" type="email" id="email" required aria-describedby="email-error">
-  <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="email-error">
+  <label class="inline-block pad-b-1-4" for="tel">Phone number <em class="flag-optional milli normal">(optional)</em></label>
+  <input class="push-1-4" type="tel" id="tel" aria-describedby="tel-error">
+  <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="tel-error">
     <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
-    <span class="icon-label">Please provide a properly formatted email address.</span>
+    <span class="icon-label">Please provide a proper phone number.</span>
   </p>
 </div>
 
