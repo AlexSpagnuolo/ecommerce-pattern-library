@@ -348,9 +348,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1519876624441
+ * @version 1519876843779
  */
-const patternManifest_1519876624441 = {
+const patternManifest_1519876843779 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -684,6 +684,12 @@ const patternManifest_1519876624441 = {
           "localPath": "patterns/forms/billingaddress-input.html"
         },
         {
+          "name": "cardholdername-input",
+          "namePretty": "Cardholdername input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardholdername-input.html",
+          "localPath": "patterns/forms/cardholdername-input.html"
+        },
+        {
           "name": "cardnumber-input",
           "namePretty": "Cardnumber input",
           "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardnumber-input.html",
@@ -802,5 +808,5 @@ const patternManifest_1519876624441 = {
   }
 };
 
-patternBotIncludes(patternManifest_1519876624441);
+patternBotIncludes(patternManifest_1519876843779);
 }());
