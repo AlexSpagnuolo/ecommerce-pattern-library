@@ -36,3 +36,8 @@ input {
 label {
   color: var(--color-primary-dark);
 }
+
+.btn-code {
+  padding-top: 0;
+  padding-bottom: 0;
+}

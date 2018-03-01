@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Email input</title>
+  <title>Discount code</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="../../common/modules.css" rel="stylesheet">
   <link href="../../common/grid.css" rel="stylesheet">
@@ -22,15 +22,22 @@
     </h3>
   </div>
 
-<div class>
-  <label class="inline-block pad-b-1-4" for="email">Email</label>
-  <input class="push-1-4" type="email" id="email" required aria-describedby="email-error">
-  <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="email-error">
-    <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
-    <span class="icon-label">Please provide a properly formatted email address.</span>
-  </p>
-</div>
+  <div class="grid grid-bottom">
 
+    <div class="unit xs-3-4">
+      <label class="inline-block pad-b-1-4" for="discountcode">Discount code</label>
+      <input class="push-1-4" type="text" id="discountcode" aria-describedby="discountcode-error">
+      <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="discountcode-error">
+        <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
+        <span class="icon-label">Please provide a valid discount code.</span>
+      </p>
+    </div>
+
+    <div class="unit xs-1-4 pad-b-1-4 gutter-1-4">
+      <button class="btn btn-code micro" type="submit">Apply</button>
+    </div>
+
+  </div>
 </form>
 
 <script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
