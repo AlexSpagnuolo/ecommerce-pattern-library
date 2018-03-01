@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Phone number input</title>
+  <title>Name input</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="../../common/modules.css" rel="stylesheet">
   <link href="../../common/grid.css" rel="stylesheet">
@@ -22,12 +22,12 @@
     </h3>
   </div>
 
-  <div class>
-    <label class="inline-block pad-b-1-4" for="tel">Phone number <em class="flag-optional milli normal">(optional)</em></label>
-    <input class="push-1-4" type="tel" id="tel" aria-describedby="tel-error">
-    <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="tel-error">
+  <div>
+    <label class="inline-block pad-b-1-4" for="full-name">Full name</label>
+    <input class="push-1-4" type="full-name" id="full-name" required aria-describedby="fullname-error">
+    <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="fullname-error">
       <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
-      <span class="icon-label">Please provide a proper phone number.</span>
+      <span class="icon-label">Please provide a name.</span>
     </p>
   </div>
 
