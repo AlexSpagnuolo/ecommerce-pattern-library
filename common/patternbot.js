@@ -348,9 +348,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1519874691656
+ * @version 1519876386603
  */
-const patternManifest_1519874691656 = {
+const patternManifest_1519876386603 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -678,6 +678,12 @@ const patternManifest_1519874691656 = {
           "localPath": "patterns/forms/address-input.html"
         },
         {
+          "name": "billingaddress-input",
+          "namePretty": "Billingaddress input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/billingaddress-input.html",
+          "localPath": "patterns/forms/billingaddress-input.html"
+        },
+        {
           "name": "city-input",
           "namePretty": "City input",
           "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/city-input.html",
@@ -790,5 +796,5 @@ const patternManifest_1519874691656 = {
   }
 };
 
-patternBotIncludes(patternManifest_1519874691656);
+patternBotIncludes(patternManifest_1519876386603);
 }());
