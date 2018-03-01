@@ -41,3 +41,7 @@ label {
   padding-top: 0;
   padding-bottom: 0;
 }
+
+.spacebeside {
+  padding-right: .5em;
+}
