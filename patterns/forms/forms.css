@@ -28,7 +28,7 @@
   display: block;
 }
 
-input {
+input, select {
   border-radius: 7px;
   border-color: var(--color-light-grey);
 }
