@@ -348,9 +348,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1519876843779
+ * @version 1519879562183
  */
-const patternManifest_1519876843779 = {
+const patternManifest_1519879562183 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -726,6 +726,12 @@ const patternManifest_1519876843779 = {
           "localPath": "patterns/forms/email-input.html"
         },
         {
+          "name": "expirycvv-input",
+          "namePretty": "Expirycvv input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/expirycvv-input.html",
+          "localPath": "patterns/forms/expirycvv-input.html"
+        },
+        {
           "name": "name-input",
           "namePretty": "Name input",
           "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/name-input.html",
@@ -808,5 +814,5 @@ const patternManifest_1519876843779 = {
   }
 };
 
-patternBotIncludes(patternManifest_1519876843779);
+patternBotIncludes(patternManifest_1519879562183);
 }());
