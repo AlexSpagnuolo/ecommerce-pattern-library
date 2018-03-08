@@ -1,0 +1,47 @@
+.flag-optional {
+  color: color: var(--color-primary-medium);
+}
+
+.is-validated input:invalid,
+.is-validated input[type="checkbox"]:invalid + label::before {
+  border-color: #f33;
+}
+
+.error-message {
+  display: none;
+  background-color: #fee;
+  color: #c33;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.error-message-highlighted {
+  background-color: #fee;
+  color: #c33;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.is-validated .error-message:first-child,
+.is-validated input:invalid + .error-message,
+.is-validated input:invalid + label + .error-message {
+  display: block;
+}
+
+input, select {
+  border-radius: 7px;
+  border-color: var(--color-light-grey);
+}
+
+label {
+  color: var(--color-primary-dark);
+}
+
+.btn-code {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.spacebeside {
+  padding-right: .5em;
+}

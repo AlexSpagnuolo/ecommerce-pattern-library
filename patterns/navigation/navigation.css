@@ -1,0 +1,30 @@
+.about {
+  background-color: var(--color-primary-light);
+}
+
+.sectiontitle {
+  display: inline;
+}
+
+.sectionbody {
+  font-weight: 400;
+  display: inline;
+}
+
+.aboutsectiontitle {
+  color: var(--color-primary-dark);
+  line-height: 1.4rem;
+}
+
+.aboutsectionbody {
+  color: var(--color-primary-medium);
+}
+
+.sell {
+  background-color: var(--color-primary-medium);
+}
+
+.sellsectiontitle, .sellsectionbody {
+  color: var(--color-primary-dark);
+  line-height: 1.4rem;
+}
