@@ -347,16 +347,10 @@ const patternBotIncludes = function (manifest) {
 
 /** 
  * Patternbot library manifest
- * /Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
-<<<<<<< HEAD
- * @version 1519861383355
+ * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
+ * @version 1520523229773
  */
-const patternManifest_1519861383355 = {
-=======
- * @version 1519879562183
- */
-const patternManifest_1519879562183 = {
->>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
+const patternManifest_1520523229773 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -546,30 +540,31 @@ const patternManifest_1519879562183 = {
   },
   "patternLibFiles": {
     "commonParsable": {
-      "gridifier": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/grid.css",
-      "typografier": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/type.css",
-      "modulifier": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/modules.css",
-      "theme": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/theme.css"
+      "gridifier": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/grid.css",
+      "typografier": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/type.css",
+      "modulifier": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/modules.css",
+      "theme": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/common/theme.css"
     },
     "imagesParsable": {
-      "icons": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/icons.svg"
+      "icons": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/icons.svg"
     },
     "logos": {
-      "sizeLarge": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-256.svg",
-      "size64": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-64.svg",
-      "size32": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-32.svg",
-      "size16": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-16.svg",
+      "sizeLarge": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-256.svg",
+      "size64": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-64.svg",
+      "size32": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-32.svg",
+      "size16": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-16.svg",
       "size16Local": "logo-16.svg",
       "sizeLargeLocal": "logo-256.svg",
       "size32Local": "logo-32.svg",
       "size64Local": "logo-64.svg"
     },
     "patterns": [
-      "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners",
-      "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons",
-      "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards",
-      "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms",
-      "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays"
+      "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners",
+      "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons",
+      "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards",
+      "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms",
+      "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/navigation",
+      "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays"
     ],
     "pages": []
   },
@@ -577,19 +572,19 @@ const patternManifest_1519879562183 = {
     {
       "name": "banners",
       "namePretty": "Banners",
-      "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners",
+      "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners",
       "html": [
         {
           "name": "home-banner",
           "namePretty": "Home banner",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/home-banner.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/home-banner.html",
           "localPath": "patterns/banners/home-banner.html",
           "readme": {}
         },
         {
           "name": "product-banner",
           "namePretty": "Product banner",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/product-banner.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/product-banner.html",
           "localPath": "patterns/banners/product-banner.html",
           "readme": {}
         }
@@ -598,7 +593,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "readme",
           "namePretty": "Readme",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/README.md",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/README.md",
           "localPath": "patterns/banners/README.md"
         }
       ],
@@ -606,7 +601,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "banners",
           "namePretty": "Banners",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/banners.css",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/banners.css",
           "localPath": "patterns/banners/banners.css"
         }
       ]
@@ -614,12 +609,12 @@ const patternManifest_1519879562183 = {
     {
       "name": "buttons",
       "namePretty": "Buttons",
-      "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons",
+      "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons",
       "html": [
         {
           "name": "buttons",
           "namePretty": "Buttons",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/buttons.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/buttons.html",
           "localPath": "patterns/buttons/buttons.html"
         }
       ],
@@ -627,7 +622,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "readme",
           "namePretty": "Readme",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/README.md",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/README.md",
           "localPath": "patterns/buttons/README.md"
         }
       ],
@@ -635,7 +630,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "buttons",
           "namePretty": "Buttons",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/buttons.css",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/buttons.css",
           "localPath": "patterns/buttons/buttons.css"
         }
       ]
@@ -643,12 +638,12 @@ const patternManifest_1519879562183 = {
     {
       "name": "cards",
       "namePretty": "Cards",
-      "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards",
+      "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards",
       "html": [
         {
           "name": "icon-card",
           "namePretty": "Icon card",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards/icon-card.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards/icon-card.html",
           "localPath": "patterns/cards/icon-card.html",
           "readme": {
             "width": 280
@@ -659,7 +654,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "readme",
           "namePretty": "Readme",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards/README.md",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards/README.md",
           "localPath": "patterns/cards/README.md"
         }
       ],
@@ -667,7 +662,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "cards",
           "namePretty": "Cards",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards/cards.css",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards/cards.css",
           "localPath": "patterns/cards/cards.css"
         }
       ]
@@ -675,92 +670,86 @@ const patternManifest_1519879562183 = {
     {
       "name": "forms",
       "namePretty": "Forms",
-      "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms",
+      "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms",
       "html": [
         {
-<<<<<<< HEAD
-=======
           "name": "address-input",
           "namePretty": "Address input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/address-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/address-input.html",
           "localPath": "patterns/forms/address-input.html"
         },
         {
           "name": "billingaddress-input",
           "namePretty": "Billingaddress input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/billingaddress-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/billingaddress-input.html",
           "localPath": "patterns/forms/billingaddress-input.html"
         },
         {
           "name": "cardholdername-input",
           "namePretty": "Cardholdername input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardholdername-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardholdername-input.html",
           "localPath": "patterns/forms/cardholdername-input.html"
         },
         {
           "name": "cardnumber-input",
           "namePretty": "Cardnumber input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardnumber-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardnumber-input.html",
           "localPath": "patterns/forms/cardnumber-input.html"
         },
         {
           "name": "city-input",
           "namePretty": "City input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/city-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/city-input.html",
           "localPath": "patterns/forms/city-input.html"
         },
         {
           "name": "company-input",
           "namePretty": "Company input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/company-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/company-input.html",
           "localPath": "patterns/forms/company-input.html"
         },
         {
           "name": "country-input",
           "namePretty": "Country input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/country-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/country-input.html",
           "localPath": "patterns/forms/country-input.html"
         },
         {
           "name": "discountcode-input",
           "namePretty": "Discountcode input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/discountcode-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/discountcode-input.html",
           "localPath": "patterns/forms/discountcode-input.html"
         },
         {
->>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
           "name": "email-input",
           "namePretty": "Email input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/email-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/email-input.html",
           "localPath": "patterns/forms/email-input.html"
-<<<<<<< HEAD
-=======
         },
         {
           "name": "expirycvv-input",
           "namePretty": "Expirycvv input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/expirycvv-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/expirycvv-input.html",
           "localPath": "patterns/forms/expirycvv-input.html"
         },
         {
           "name": "name-input",
           "namePretty": "Name input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/name-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/name-input.html",
           "localPath": "patterns/forms/name-input.html"
         },
         {
           "name": "phone-input",
           "namePretty": "Phone input",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/phone-input.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/phone-input.html",
           "localPath": "patterns/forms/phone-input.html"
->>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
         }
       ],
       "md": [
         {
           "name": "readme",
           "namePretty": "Readme",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/README.md",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/README.md",
           "localPath": "patterns/forms/README.md"
         }
       ],
@@ -768,20 +757,55 @@ const patternManifest_1519879562183 = {
         {
           "name": "forms",
           "namePretty": "Forms",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/forms.css",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/forms.css",
           "localPath": "patterns/forms/forms.css"
+        }
+      ]
+    },
+    {
+      "name": "navigation",
+      "namePretty": "Navigation",
+      "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/navigation",
+      "html": [
+        {
+          "name": "about",
+          "namePretty": "About",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/navigation/about.html",
+          "localPath": "patterns/navigation/about.html"
+        },
+        {
+          "name": "interested-in-selling",
+          "namePretty": "Interested in selling",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/navigation/interested-in-selling.html",
+          "localPath": "patterns/navigation/interested-in-selling.html"
+        }
+      ],
+      "md": [
+        {
+          "name": "readme",
+          "namePretty": "Readme",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/navigation/README.md",
+          "localPath": "patterns/navigation/README.md"
+        }
+      ],
+      "css": [
+        {
+          "name": "navigation",
+          "namePretty": "Navigation",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/navigation/navigation.css",
+          "localPath": "patterns/navigation/navigation.css"
         }
       ]
     },
     {
       "name": "photo-arrays",
       "namePretty": "Photo arrays",
-      "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays",
+      "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays",
       "html": [
         {
           "name": "product-photos",
           "namePretty": "Product photos",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/product-photos.html",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/product-photos.html",
           "localPath": "patterns/photo-arrays/product-photos.html",
           "readme": {
             "width": 576
@@ -792,7 +816,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "readme",
           "namePretty": "Readme",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/README.md",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/README.md",
           "localPath": "patterns/photo-arrays/README.md"
         }
       ],
@@ -800,7 +824,7 @@ const patternManifest_1519879562183 = {
         {
           "name": "photo-arrays",
           "namePretty": "Photo arrays",
-          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/photo-arrays.css",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/photo-arrays.css",
           "localPath": "patterns/photo-arrays/photo-arrays.css"
         }
       ]
@@ -826,9 +850,5 @@ const patternManifest_1519879562183 = {
   }
 };
 
-<<<<<<< HEAD
-patternBotIncludes(patternManifest_1519861383355);
-=======
-patternBotIncludes(patternManifest_1519879562183);
->>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
+patternBotIncludes(patternManifest_1520523229773);
 }());
