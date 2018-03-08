@@ -348,9 +348,15 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
+<<<<<<< HEAD
  * @version 1519861383355
  */
 const patternManifest_1519861383355 = {
+=======
+ * @version 1519879562183
+ */
+const patternManifest_1519879562183 = {
+>>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -672,10 +678,82 @@ const patternManifest_1519861383355 = {
       "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms",
       "html": [
         {
+<<<<<<< HEAD
+=======
+          "name": "address-input",
+          "namePretty": "Address input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/address-input.html",
+          "localPath": "patterns/forms/address-input.html"
+        },
+        {
+          "name": "billingaddress-input",
+          "namePretty": "Billingaddress input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/billingaddress-input.html",
+          "localPath": "patterns/forms/billingaddress-input.html"
+        },
+        {
+          "name": "cardholdername-input",
+          "namePretty": "Cardholdername input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardholdername-input.html",
+          "localPath": "patterns/forms/cardholdername-input.html"
+        },
+        {
+          "name": "cardnumber-input",
+          "namePretty": "Cardnumber input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/cardnumber-input.html",
+          "localPath": "patterns/forms/cardnumber-input.html"
+        },
+        {
+          "name": "city-input",
+          "namePretty": "City input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/city-input.html",
+          "localPath": "patterns/forms/city-input.html"
+        },
+        {
+          "name": "company-input",
+          "namePretty": "Company input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/company-input.html",
+          "localPath": "patterns/forms/company-input.html"
+        },
+        {
+          "name": "country-input",
+          "namePretty": "Country input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/country-input.html",
+          "localPath": "patterns/forms/country-input.html"
+        },
+        {
+          "name": "discountcode-input",
+          "namePretty": "Discountcode input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/discountcode-input.html",
+          "localPath": "patterns/forms/discountcode-input.html"
+        },
+        {
+>>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
           "name": "email-input",
           "namePretty": "Email input",
           "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/email-input.html",
           "localPath": "patterns/forms/email-input.html"
+<<<<<<< HEAD
+=======
+        },
+        {
+          "name": "expirycvv-input",
+          "namePretty": "Expirycvv input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/expirycvv-input.html",
+          "localPath": "patterns/forms/expirycvv-input.html"
+        },
+        {
+          "name": "name-input",
+          "namePretty": "Name input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/name-input.html",
+          "localPath": "patterns/forms/name-input.html"
+        },
+        {
+          "name": "phone-input",
+          "namePretty": "Phone input",
+          "path": "/Users/Alex/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 2/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/forms/phone-input.html",
+          "localPath": "patterns/forms/phone-input.html"
+>>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
         }
       ],
       "md": [
@@ -748,5 +826,9 @@ const patternManifest_1519861383355 = {
   }
 };
 
+<<<<<<< HEAD
 patternBotIncludes(patternManifest_1519861383355);
+=======
+patternBotIncludes(patternManifest_1519879562183);
+>>>>>>> 82d782df56716e607f47d7a01e640a57d7b84db9
 }());
