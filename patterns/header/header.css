@@ -1,14 +1,13 @@
-.banner {
-  background-color: var(--color-primary-dark);
+nav {
+  background-color: var(--color-primary-dark)
 }
 
-.bannerh1 {
-  color: var(--color-primary);
-  display: inline;
-}
-
-.bannerh2 {
+a {
+  text-decoration: none;
+  transition: all .15s ease;
   color: var(--color-primary-light);
-  font-weight: 400;
-  display: inline;
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
 }
