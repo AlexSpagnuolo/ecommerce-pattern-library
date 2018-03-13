@@ -348,9 +348,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1520959321665
+ * @version 1520962544485
  */
-const patternManifest_1520959321664 = {
+const patternManifest_1520962544485 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -516,19 +516,6 @@ const patternManifest_1520959321664 = {
         "fontURL": "https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i",
         "backgroundColor": "#e4e4e4",
         "accentColor": "#7d6c59",
-        "brand": {
-          "logos": {
-            "backgroundColor": "var(--color-primary-dark)",
-            "backgroundColour": "#3c342b",
-            "hidePopOutButton": true,
-            "notResizable": true,
-            "hideCode": true,
-            "interfaceColours": {
-              "primary": 255,
-              "opposite": 0
-            }
-          }
-        },
         "fontUrl": "https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i",
         "backgroundColour": "#e4e4e4",
         "accentColour": "#7d6c59",
@@ -562,10 +549,14 @@ const patternManifest_1520959321664 = {
       "icons": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/icons.svg"
     },
     "logos": {
-      "sizeLarge": false,
-      "size64": false,
-      "size32": false,
-      "size16": false
+      "sizeLarge": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-256.svg",
+      "size64": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-64.svg",
+      "size32": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-32.svg",
+      "size16": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/images/logo-16.svg",
+      "size16Local": "logo-16.svg",
+      "sizeLargeLocal": "logo-256.svg",
+      "size32Local": "logo-32.svg",
+      "size64Local": "logo-64.svg"
     },
     "patterns": [
       "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners",
@@ -953,5 +944,5 @@ const patternManifest_1520959321664 = {
   }
 };
 
-patternBotIncludes(patternManifest_1520959321664);
+patternBotIncludes(patternManifest_1520962544485);
 }());
