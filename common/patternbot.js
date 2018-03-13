@@ -528,6 +528,7 @@ const patternManifest_1520959321664 = {
               "opposite": 0
             }
           }
+        },
         "fontUrl": "https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i",
         "backgroundColour": "#e4e4e4",
         "accentColour": "#7d6c59",
