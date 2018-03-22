@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1521725322432
+ * @version 1521729473539
  */
-const patternManifest_1521725322432 = {
+const patternManifest_1521729473539 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -981,15 +981,28 @@ const patternManifest_1521725322432 = {
           "filename": "about",
           "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/about.html",
           "localPath": "patterns/sections/about.html",
-          "readme": {}
+          "readme": {
+            "featured": {
+              "desc": "This section provides two featured works of art.\n"
+            },
+            "interested-in-selling": {
+              "desc": "This section provides a way for users to contact Exhibit2 to signup and start selling their work with the service.\n"
+            }
+          }
+        },
+        {
+          "name": "featured",
+          "namePretty": "Featured",
+          "filename": "featured",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/featured.html",
+          "localPath": "patterns/sections/featured.html"
         },
         {
           "name": "interested-in-selling",
           "namePretty": "Interested in selling",
           "filename": "interested-in-selling",
           "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/interested-in-selling.html",
-          "localPath": "patterns/sections/interested-in-selling.html",
-          "readme": {}
+          "localPath": "patterns/sections/interested-in-selling.html"
         }
       ],
       "md": [
@@ -1032,5 +1045,5 @@ const patternManifest_1521725322432 = {
   }
 };
 
-patternBotIncludes(patternManifest_1521725322432);
+patternBotIncludes(patternManifest_1521729473539);
 }());
