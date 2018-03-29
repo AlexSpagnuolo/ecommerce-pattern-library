@@ -1038,7 +1038,9 @@
               <code><pre id="buttons-buttons-code-sample-copy-chunk">&lt;div&gt;
   &lt;a class="btn" href="#">Standard button
     &lt;i class="btn-icon icon i-20">
-      &lt;img src="../../images/icons.svg#add-to-cart" alt="">
+      &lt;svg>
+        &lt;use xlink:href="../../images/icons.svg#add-to-cart"/>
+      &lt;/svg>
     &lt;/i>
   &lt;/a>
 &lt;/div>
@@ -1197,7 +1199,7 @@
                 </i>
               </button>
               <code><pre id="footer-footer-code-sample-copy-chunk">&lt;footer class="pad-t-2"&gt;
-  &lt;div class="wrapper grid gutter">
+  &lt;div class="max-length grid gutter">
 
     &lt;div class="unit xs-1 push">
       &lt;h2 class="push-1-4 footertitle">Exhibit2&lt;/h2>
@@ -2475,42 +2477,128 @@
 
 </section>
 
-        <section class="pattern" id="photo-arrays" role="tabpanel" hidden aria-hidden="true" style="">
-  <div class="pattern-toolbar gutter pad-t-1-4 pad-b-1-8 relative" style="">
+        <section class="pattern" id="photo-arrays" role="tabpanel" hidden aria-hidden="true" >
+  <div class="pattern-toolbar gutter pad-t-1-4 pad-b-1-8 relative" >
     <h2 class="pattern-name exa push-1-4" style="color: #7d6c59; font-family: ;">Photo arrays</h2>
-        <ul class="list-group-inline gutter absolute pin-cr">
-            <li>
-              <button class="center-contents-vertical pattern-tool-btn pattern-code-btn" title="Show code" aria-label="Show code" aria-pressed="false" aria-controls="photo-arrays-product-photos-code-sample">
-                <i class="icon i-18">
-                  <svg><use xlink:href="#icon-code"></use></svg>
-                </i>
-              </button>
-            </li>
-            <li>
-              <button class="center-contents-vertical pattern-tool-btn pattern-include-btn" title="Copy include" aria-label="Copy include" data-copy-include-pattern="photo-arrays/product-photos" hidden>
-                <i class="icon i-18">
-                  <svg><use xlink:href="#icon-copy"></use></svg>
-                </i>
-              </button>
-            </li>
-            <li>
-              <a class="center-contents-vertical pattern-tool-btn pattern-pop-btn" href="patterns/photo-arrays/product-photos.html" target="_blank" title="Open pattern in a new tab" aria-label="Open pattern in a new tab">
-                <i class="icon i-18">
-                  <svg><use xlink:href="#icon-pop-out"></use></svg>
-                </i>
-              </a>
-            </li>
-        </ul>
+      <nav class="pattern-nav">
+        <ol class="list-group-inline push-1-4 pad-b-1-4">
+            <li><a href="#photo-arrays--featured">Featured</a></li>
+            <li><a href="#photo-arrays--product-photos">Product photos</a></li>
+        </ol>
+      </nav>
   </div>
 
-    <div class="pattern-desc milli island" style="">
+    <div class="pattern-desc milli island" >
       <div class="max-length"><p>Photo arrays provide dynamic and different content bunched together to show  multiple shots of the same subject.</p>
 </div>
     </div>
 
   
 
+    <div class="pattern-details " id="photo-arrays--featured" style="">
+        <div class="pattern-toolbar pattern-toolbar-inner relative gutter pad-t-1-4 pad-b-1-4" style="">
+          <h3 class="pattern-name tera push-1-8">Featured</h3>
+            <ul class="list-group-inline gutter absolute pin-cr">
+                <li>
+                  <button class="center-contents-vertical pattern-tool-btn pattern-code-btn" title="Show code" aria-label="Show code" aria-pressed="false" aria-controls="photo-arrays-featured-code-sample">
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-code"></use></svg>
+                    </i>
+                  </button>
+                </li>
+                <li>
+                  <button class="center-contents-vertical pattern-tool-btn pattern-include-btn" title="Copy include" aria-label="Copy include" data-copy-include-pattern="photo-arrays/featured" hidden>
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-copy"></use></svg>
+                    </i>
+                  </button>
+                </li>
+                <li>
+                  <a class="btn center-contents-vertical pattern-tool-btn pattern-pop-btn" href="patterns/photo-arrays/featured.html" target="_blank" title="Open pattern in a new tab" aria-label="Open pattern in a new tab">
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-pop-out"></use></svg>
+                    </i>
+                  </a>
+                </li>
+            </ul>
+        </div>
+
+      <div class="pattern-examples pad-t-1-2 pad-b-1-2" style="">
+        <div class="gutter-2 pad-t-1-2 pad-b-1-2">
+          <div class="resizeable-pattern relative" style="">
+            <i class="icon i-32 patternbot-iframe-loading-gears absolute pin-c"><svg><use xlink:href="#patternbot-iframe-loading-gears"></use></svg></i>
+            <iframe data-src="patterns/photo-arrays/featured.html" scrolling="no" data-inject-css=" " ></iframe>
+              <div class="resizeable-pattern-length">
+                <div class="resize-handle resize-handle-left" style="">
+                  <i class="icon i-18">
+                    <svg><use xlink:href="#icon-resize-handle" /></svg>
+                  </i>
+                </div>
+                <div class="resize-handle resize-handle-right" style="">
+                  <i class="icon i-18">
+                    <svg><use xlink:href="#icon-resize-handle" /></svg>
+                  </i>
+                </div>
+              </div>
+          </div>
+        </div>
+
+          <div class="pattern-code-wrap gutter pad-t-1-2 pad-b-1-2" hidden aria-hidden="true" id="photo-arrays-featured-code-sample" tabindex="-1">
+            <div class="pattern-code relative milli island-1-2" style="">
+              <button class="center-contents-vertical pattern-tool-btn pattern-copy-btn absolute pin-tr" title="Copy code" aria-label="Copy code" data-clipboard-target="#photo-arrays-featured-code-sample-copy-chunk" hidden>
+                <i class="icon i-18">
+                  <svg><use xlink:href="#icon-copy"></use></svg>
+                </i>
+              </button>
+              <code><pre id="photo-arrays-featured-code-sample-copy-chunk">&lt;section class="featuredart"&gt;
+  &lt;div class="grid gutter-1-2 max-length pad-b-2">
+
+    &lt;div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2">
+      &lt;img class="img-flex gutter-1-2 pad-t" src="https://placehold.it/200x200" alt="">
+    &lt;/div>
+
+    &lt;div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2">
+      &lt;img class="img-flex gutter-1-2 pad-t" src="https://placehold.it/200x200" alt="">
+    &lt;/div>
+
+  &lt;/div>
+&lt;/section>
+</pre></code>
+            </div>
+          </div>
+      </div>
+    </div>
     <div class="pattern-details " id="photo-arrays--product-photos" style="">
+        <div class="pattern-toolbar pattern-toolbar-inner relative gutter pad-t-1-4 pad-b-1-4" style="">
+          <h3 class="pattern-name tera push-1-8">Product photos</h3>
+            <ul class="list-group-inline gutter absolute pin-cr">
+                <li>
+                  <button class="center-contents-vertical pattern-tool-btn pattern-code-btn" title="Show code" aria-label="Show code" aria-pressed="false" aria-controls="photo-arrays-product-photos-code-sample">
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-code"></use></svg>
+                    </i>
+                  </button>
+                </li>
+                <li>
+                  <button class="center-contents-vertical pattern-tool-btn pattern-include-btn" title="Copy include" aria-label="Copy include" data-copy-include-pattern="photo-arrays/product-photos" hidden>
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-copy"></use></svg>
+                    </i>
+                  </button>
+                </li>
+                <li>
+                  <a class="btn center-contents-vertical pattern-tool-btn pattern-pop-btn" href="patterns/photo-arrays/product-photos.html" target="_blank" title="Open pattern in a new tab" aria-label="Open pattern in a new tab">
+                    <i class="icon i-18">
+                      <svg><use xlink:href="#icon-pop-out"></use></svg>
+                    </i>
+                  </a>
+                </li>
+            </ul>
+        </div>
+          <div class="pattern-desc milli island" style="">
+            <div class="max-length"><p>The product photo array is an arrangement of the different photos for each product.</p>
+</div>
+          </div>
 
       <div class="pattern-examples pad-t-1-2 pad-b-1-2" style="">
         <div class="gutter-2 pad-t-1-2 pad-b-1-2">
@@ -2705,7 +2793,7 @@
                 </i>
               </button>
               <code><pre id="sections-featured-code-sample-copy-chunk">&lt;section class="featured"&gt;
-  &lt;div class="max-length gutter pad-t-2 pad-b-2">
+  &lt;div class="max-length gutter pad-t-2 pad-b">
     &lt;h2 class="sectiontitle aboutsectiontitle zetta">Featured&lt;/h2>
     &lt;p class="sectionbody aboutsectionbody kilo">See the two top pick artworks our curators chose this week.&lt;/p>
   &lt;/div>
@@ -2775,11 +2863,13 @@
     &lt;h2 class="sectiontitle sellsectiontitle zetta">Interested in selling?&lt;/h2>
     &lt;p class="sectionbody sellsectionbody kilo">We&#x2019;d love for you to join our journey.&lt;/p>
     &lt;div class="pad-t">
-      &lt;a class="btn" href="#">Contact Us
-          &lt;i class="btn-icon icon i-20">
-            &lt;img src="../../images/contact-us.svg" alt="">
-          &lt;/i>
-        &lt;/a>
+      &lt;a class="btn" href="#">Contact us
+            &lt;i class="btn-icon icon i-20">
+              &lt;svg>
+                &lt;use xlink:href="../../images/icons.svg#contact-us"/>
+              &lt;/svg>
+            &lt;/i>
+          &lt;/a>
     &lt;/div>
   &lt;/div>
 &lt;/section>

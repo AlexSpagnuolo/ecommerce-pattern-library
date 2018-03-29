@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1522115903961
+ * @version 1522330992116
  */
-const patternManifest_1522115903961 = {
+const patternManifest_1522330992116 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -570,9 +570,9 @@ const patternManifest_1522115903961 = {
     "icons": [
       "add-to-cart",
       "complete",
+      "instagram",
       "contact-us",
       "error",
-      "instagram",
       "see-more"
     ],
     "interfaceColours": {
@@ -941,6 +941,13 @@ const patternManifest_1522115903961 = {
       "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays",
       "html": [
         {
+          "name": "featured",
+          "namePretty": "Featured",
+          "filename": "featured",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/featured.html",
+          "localPath": "patterns/photo-arrays/featured.html"
+        },
+        {
           "name": "product-photos",
           "namePretty": "Product photos",
           "filename": "product-photos",
@@ -1045,5 +1052,5 @@ const patternManifest_1522115903961 = {
   }
 };
 
-patternBotIncludes(patternManifest_1522115903961);
+patternBotIncludes(patternManifest_1522330992116);
 }());
