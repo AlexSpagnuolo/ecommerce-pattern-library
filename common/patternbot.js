@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1522330992116
+ * @version 1522932251987
  */
-const patternManifest_1522330992116 = {
+const patternManifest_1522932251987 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -601,7 +601,6 @@ const patternManifest_1522330992116 = {
       "size64Local": "logo-64.svg"
     },
     "patterns": [
-      "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners",
       "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons",
       "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/cards",
       "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/footer",
@@ -616,50 +615,15 @@ const patternManifest_1522330992116 = {
         "name": "home.html",
         "namePretty": "Home",
         "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/pages/home.html"
+      },
+      {
+        "name": "products.html",
+        "namePretty": "Products",
+        "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/pages/products.html"
       }
     ]
   },
   "userPatterns": [
-    {
-      "name": "banners",
-      "namePretty": "Banners",
-      "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners",
-      "html": [
-        {
-          "name": "home-banner",
-          "namePretty": "Home banner",
-          "filename": "home-banner",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/home-banner.html",
-          "localPath": "patterns/banners/home-banner.html",
-          "readme": {}
-        },
-        {
-          "name": "product-banner",
-          "namePretty": "Product banner",
-          "filename": "product-banner",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/product-banner.html",
-          "localPath": "patterns/banners/product-banner.html"
-        }
-      ],
-      "md": [
-        {
-          "name": "readme",
-          "namePretty": "Readme",
-          "filename": "README",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/README.md",
-          "localPath": "patterns/banners/README.md"
-        }
-      ],
-      "css": [
-        {
-          "name": "banner",
-          "namePretty": "Banner",
-          "filename": "banner",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/banners/banner.css",
-          "localPath": "patterns/banners/banner.css"
-        }
-      ]
-    },
     {
       "name": "buttons",
       "namePretty": "Buttons",
@@ -1052,5 +1016,5 @@ const patternManifest_1522330992116 = {
   }
 };
 
-patternBotIncludes(patternManifest_1522330992116);
+patternBotIncludes(patternManifest_1522932251987);
 }());
