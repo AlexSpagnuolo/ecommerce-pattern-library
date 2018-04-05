@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1522932251987
+ * @version 1522932929806
  */
-const patternManifest_1522932251987 = {
+const patternManifest_1522932929806 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -1016,5 +1016,5 @@ const patternManifest_1522932251987 = {
   }
 };
 
-patternBotIncludes(patternManifest_1522932251987);
+patternBotIncludes(patternManifest_1522932929806);
 }());
