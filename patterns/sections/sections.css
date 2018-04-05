@@ -1,4 +1,4 @@
-.about {
+.light {
   background-color: var(--color-primary-light);
 }
 
@@ -11,24 +11,24 @@
   display: inline;
 }
 
-.aboutsectiontitle {
+.lightsectiontitle {
   color: var(--color-primary-dark);
   line-height: 1.4rem;
 }
 
-.aboutsectionbody {
+.lightsectionbody {
   color: var(--color-primary-medium);
 }
 
-.sell {
+.medium {
   background-color: var(--color-primary-medium);
 }
 
-.sellsectiontitle, .sellsectionbody {
+.mediumsectiontitle, .mediumsectionbody {
   color: var(--color-primary-dark);
   line-height: 1.4rem;
 }
 
-.featured {
+.lightgrey {
   background-color: var(--color-light-grey);
 }

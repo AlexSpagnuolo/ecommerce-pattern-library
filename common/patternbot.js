@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1522934334861
+ * @version 1522937295449
  */
-const patternManifest_1522934334861 = {
+const patternManifest_1522937295449 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -975,33 +975,28 @@ const patternManifest_1522934334861 = {
       "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections",
       "html": [
         {
-          "name": "about",
-          "namePretty": "About",
-          "filename": "about",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/about.html",
-          "localPath": "patterns/sections/about.html",
-          "readme": {
-            "featured": {
-              "desc": "This section provides two featured works of art.\n"
-            },
-            "interested-in-selling": {
-              "desc": "This section provides a way for users to contact Exhibit2 to signup and start selling their work with the service.\n"
-            }
-          }
+          "name": "light-grey",
+          "namePretty": "Light grey",
+          "filename": "light-grey",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/light-grey.html",
+          "localPath": "patterns/sections/light-grey.html",
+          "readme": {}
         },
         {
-          "name": "featured",
-          "namePretty": "Featured",
-          "filename": "featured",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/featured.html",
-          "localPath": "patterns/sections/featured.html"
+          "name": "light",
+          "namePretty": "Light",
+          "filename": "light",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/light.html",
+          "localPath": "patterns/sections/light.html",
+          "readme": {}
         },
         {
-          "name": "interested-in-selling",
-          "namePretty": "Interested in selling",
-          "filename": "interested-in-selling",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/interested-in-selling.html",
-          "localPath": "patterns/sections/interested-in-selling.html"
+          "name": "medium",
+          "namePretty": "Medium",
+          "filename": "medium",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/sections/medium.html",
+          "localPath": "patterns/sections/medium.html",
+          "readme": {}
         }
       ],
       "md": [
@@ -1044,5 +1039,5 @@ const patternManifest_1522934334861 = {
   }
 };
 
-patternBotIncludes(patternManifest_1522934334861);
+patternBotIncludes(patternManifest_1522937295449);
 }());

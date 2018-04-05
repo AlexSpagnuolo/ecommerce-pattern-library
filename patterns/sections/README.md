@@ -1,14 +1,14 @@
 ---
-about:
+light:
   desc: |
-    This section provides information about the company and brand.
+    This section's background is the light primary colour.
 
-  featured:
-    desc: |
-      This section provides two featured works of art.
+light-grey:
+  desc: |
+    This section's background is the light grey colour.
 
-  interested-in-selling:
-    desc: |
-      This section provides a way for users to contact Exhibit2 to signup and start selling their work with the service.
+medium:
+  desc: |
+    This section's background is the medium primary colour.
 ---
-These are necessary parts of the website that provides a multitude of information.
+These are necessary parts of the website that provides a multitude of information, divided by colour, titles and content.
