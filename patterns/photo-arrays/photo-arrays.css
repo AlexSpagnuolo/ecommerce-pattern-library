@@ -5,3 +5,7 @@
 .featuredartlight {
   background-color: var(--color-primary-light);
 }
+
+.featuredartmedium {
+  background-color: var(--color-primary-medium);
+}

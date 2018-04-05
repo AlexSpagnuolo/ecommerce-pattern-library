@@ -18,7 +18,10 @@
   transform: scale(.8);
 }
 
+.buttonbglight {
+  background-color: var(--color-primary-light);
+}
 
-.btnbgdark {
-  background-color: var(--color-primary-dark)
+.btnbgmedium {
+  background-color: var(--color-primary-medium)
 }
