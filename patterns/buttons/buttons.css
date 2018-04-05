@@ -17,3 +17,8 @@
   color: var(--color-white);
   transform: scale(.8);
 }
+
+
+.btnbgdark {
+  background-color: var(--color-primary-dark)
+}

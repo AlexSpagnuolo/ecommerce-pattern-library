@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library
- * @version 1522932929806
+ * @version 1522934334861
  */
-const patternManifest_1522932929806 = {
+const patternManifest_1522934334861 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -630,11 +630,36 @@ const patternManifest_1522932929806 = {
       "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons",
       "html": [
         {
-          "name": "buttons",
-          "namePretty": "Buttons",
-          "filename": "buttons",
-          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/buttons.html",
-          "localPath": "patterns/buttons/buttons.html"
+          "name": "add-to-cart",
+          "namePretty": "Add to cart",
+          "filename": "add-to-cart",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/add-to-cart.html",
+          "localPath": "patterns/buttons/add-to-cart.html",
+          "readme": {}
+        },
+        {
+          "name": "complete",
+          "namePretty": "Complete",
+          "filename": "complete",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/complete.html",
+          "localPath": "patterns/buttons/complete.html",
+          "readme": {}
+        },
+        {
+          "name": "contact-us",
+          "namePretty": "Contact us",
+          "filename": "contact-us",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/contact-us.html",
+          "localPath": "patterns/buttons/contact-us.html",
+          "readme": {}
+        },
+        {
+          "name": "see-more",
+          "namePretty": "See more",
+          "filename": "see-more",
+          "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/buttons/see-more.html",
+          "localPath": "patterns/buttons/see-more.html",
+          "readme": {}
         }
       ],
       "md": [
@@ -909,7 +934,10 @@ const patternManifest_1522932929806 = {
           "namePretty": "Featured",
           "filename": "featured",
           "path": "/Users/Test/Library/Mobile Documents/com~apple~CloudDocs/Year 2/Semester 5/Web Development IV/Week 02 - eCommerce UX/ecommerce/ecommerce-pattern-library/patterns/photo-arrays/featured.html",
-          "localPath": "patterns/photo-arrays/featured.html"
+          "localPath": "patterns/photo-arrays/featured.html",
+          "readme": {
+            "width": 576
+          }
         },
         {
           "name": "product-photos",
@@ -1016,5 +1044,5 @@ const patternManifest_1522932929806 = {
   }
 };
 
-patternBotIncludes(patternManifest_1522932929806);
+patternBotIncludes(patternManifest_1522934334861);
 }());
