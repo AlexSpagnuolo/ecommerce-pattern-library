@@ -1,3 +1,7 @@
+fieldset {
+  border: 0;
+}
+
 .flag-optional {
   color: color: var(--color-primary-medium);
 }
@@ -44,4 +48,16 @@ label {
 
 .spacebeside {
   padding-right: .5em;
+}
+
+.extra-info {
+  display: none;
+}
+
+#different-address:checked ~ .extra-info {
+  display: block;
+}
+
+#same-address:checked ~ .extra-info {
+  display: none;
 }

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>Customer Info</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="../../common/modules.css" rel="stylesheet">
+  <link href="../../common/grid.css" rel="stylesheet">
+  <link href="../../common/type.css" rel="stylesheet">
+  <link href="../../common/theme.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family&#x3D;Rubik:400,400i,500,500i" rel="stylesheet">
+  <link href="forms.css" rel="stylesheet">
+</head>
+<body>
+
+<form class="max-length island" method="post" action="#" novalidate>
+
+  <fieldset>
+    <legend class="push-1-4 peta">Customer info</legend>
+
+    <div class="error-message error-message-highlighted push pad-t-1-4 pad-b-1-4" role="alert" aria-live="assertive">
+      <h3 class="push-0">
+        <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
+        <span class="icon-label">Please review the error below.</span>
+      </h3>
+    </div>
+
+    <div>
+      <label class="inline-block pad-b-1-4" for="email">Email address</label>
+      <input class="push-1-4" type="email" id="email" required aria-describedby="email-error">
+      <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="email-error">
+        <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
+        <span class="icon-label">Please provide a properly formatted email address.</span>
+      </p>
+    </div>
+
+    <div class>
+      <label class="inline-block pad-b-1-4" for="tel">Phone number <em class="flag-optional milli normal">(optional)</em></label>
+      <input class="push-1-4" type="tel" id="tel" aria-describedby="tel-error">
+    </div>
+
+    <div class="pad-t-1-2">
+      <button class="btn" type="submit">Next</button>
+    </div>
+  </fieldset>
+</form>
+
+<script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
+
+</body>
+</html>
