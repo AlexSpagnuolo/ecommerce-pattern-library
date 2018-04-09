@@ -54,10 +54,10 @@ label {
   display: none;
 }
 
-#different-address:checked ~ .extra-info {
-  display: block;
-}
-
 #same-address:checked ~ .extra-info {
   display: none;
+}
+
+#different-address:checked ~ .extra-info {
+  display: block;
 }

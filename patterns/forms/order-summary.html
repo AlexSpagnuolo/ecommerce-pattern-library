@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>Discount code</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="../../common/modules.css" rel="stylesheet">
+  <link href="../../common/grid.css" rel="stylesheet">
+  <link href="../../common/type.css" rel="stylesheet">
+  <link href="../../common/theme.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family&#x3D;Rubik:400,400i,500,500i" rel="stylesheet">
+  <link href="forms.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="max-length pad-t-2">
+  <div class="grid grid-middle gutter-1-2">
+    <div class="unit xs-1 s-1 m-1-3 push-1-2">
+      <img class="img-flex gutter-1-4" src="https://placehold.it/200x150" alt="">
+    </div>
+    <div class="unit xs-1 s-1 m-2-3 gutter-1-2">
+      <p><i>Untitled</i></p>
+      <p>10" x 10" painting</p>
+      <p>$500</p>
+    </div>
+  </div>
+
+  <form class=" island" method="post" action="#" novalidate>
+
+    <div class="error-message error-message-highlighted push pad-t-1-4 pad-b-1-4" role="alert" aria-live="assertive">
+      <h3 class="push-0">
+        <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
+        <span class="icon-label">Please review the error(s) below.</span>
+      </h3>
+    </div>
+
+    <div class="grid grid-bottom">
+
+      <div class="unit xs-3-4">
+        <label class="inline-block pad-b-1-4" for="discountcode">Discount code</label>
+        <input class="push-1-4" type="text" id="discountcode" aria-describedby="discountcode-error">
+        <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="discountcode-error">
+          <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
+          <span class="icon-label">Please provide a valid discount code.</span>
+        </p>
+      </div>
+
+      <div class="unit xs-1-4 pad-b-1-4 gutter-1-4">
+        <button class="btn btn-code micro" type="submit">Apply</button>
+      </div>
+
+    </div>
+  </form>
+
+  <div class="gutter">
+    <div class="grid">
+      <div class="unit xs-1-2">
+        <p class="pad-b-0 push-0">Subtotal</p>
+      </div>
+      <div class="unit xs-1-2">
+        <p class="text-right pad-b-0 push-0">$500</p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="unit xs-1-2">
+        <p class="pad-b-0 push-1-2">Shipping</p>
+      </div>
+      <div class="unit xs-1-2">
+        <p class="text-right pad-b-0 push-1-2">$10</p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="unit xs-1-2">
+        <p><b>Total</b></p>
+      </div>
+      <div class="unit xs-1-2">
+        <p class="text-right"><b>CAD $510</b></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
+</div>
+</body>
+</html>

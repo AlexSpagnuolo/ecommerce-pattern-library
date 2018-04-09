@@ -1,19 +1,19 @@
 ---
-discount-code:
+order-summary:
   desc: |
-    This section is for shoppers to add a discount code for a reduced price or promotion.
+    This section is for shoppers to view their cart and total, and an option to add a discount code for a reduced price or promotion.
 
 customer-info:
   desc: |
-    The first part aims to collect basic details about the customer, email and phone number.
+    This part aims to collect basic details about the customer, email and phone number.
 
 shipping-address:
   desc: |
-    The second part gets the user to fill out important info like their name and address.
+    The shipping address section gets the user to fill out important info like their name and address.
 
 billing-address:
   desc: |
-    The third part has two options to fill in a new address or stick with the previous one.
+    This form has two options to fill in a new address or stick with the previous one.
 
 payment:
   desc: |
