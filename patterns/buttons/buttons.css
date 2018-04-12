@@ -25,3 +25,7 @@
 .btnbgmedium {
   background-color: var(--color-primary-medium)
 }
+
+.btnbggrey {
+  background-color: var(--color-light-grey)
+}
