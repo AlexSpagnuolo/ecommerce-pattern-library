@@ -1,5 +1,5 @@
 .iconcard {
-  background-color: var(--color-primary-light);
+  background-color: var(--color-black);
   border-radius: 7px;
   transition: all .15s ease;
 }

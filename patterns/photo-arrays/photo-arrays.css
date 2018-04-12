@@ -3,9 +3,9 @@
 }
 
 .featuredartlight {
-  background-color: var(--color-primary-light);
+  background-color: var(--color-black);
 }
 
 .featuredartmedium {
-  background-color: var(--color-primary-medium);
+  background-color: var(--color-black);
 }
