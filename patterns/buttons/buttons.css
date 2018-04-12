@@ -23,9 +23,9 @@
 }
 
 .btnbgmedium {
-  background-color: var(--color-primary-medium)
+  background-color: var(--color-primary-medium);
 }
 
 .btnbggrey {
-  background-color: var(--color-light-grey)
+  background-color: var(--color-light-grey);
 }
