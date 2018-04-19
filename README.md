@@ -12,7 +12,7 @@ colors:
   accent: |
     The accent colours are all used for specific reasons. The white is used for text on hover and focus states, light grey for regular text and black for buttons.
 backgroundColor: "#e4e4e4"
-accentColor: "#7d6c59"
+accentColor: "#4c4542"
 ---
 
 Exhibit2 hosts to enable artists to sell their work. We’re bent on making the art the true focus. Our brand is bent on supporting the world’s artists.

@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Amber/GD Year 2/Semester 2/Web Dev/Alex/ecommerce-pattern-library
- * @version 1524066669079
+ * @version 1524066760870
  */
-const patternManifest_1524066669079 = {
+const patternManifest_1524066760870 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -464,30 +464,30 @@ const patternManifest_1524066669079 = {
           {
             "name": "--color-primary-light",
             "namePretty": "Primary light",
-            "raw": "#c5c2b9",
-            "hex": "#c5c2b9",
-            "rgba": "rgba(197, 194, 185, 1)"
+            "raw": "#d9c4bc",
+            "hex": "#d9c4bc",
+            "rgba": "rgba(217, 196, 188, 1)"
           },
           {
             "name": "--color-primary",
             "namePretty": "Primary",
-            "raw": "#a19582",
-            "hex": "#a19582",
-            "rgba": "rgba(161, 149, 130, 1)"
+            "raw": "#998b85",
+            "hex": "#998b85",
+            "rgba": "rgba(153, 139, 133, 1)"
           },
           {
             "name": "--color-primary-medium",
             "namePretty": "Primary medium",
-            "raw": "#7d6c59",
-            "hex": "#7d6c59",
-            "rgba": "rgba(125, 108, 89, 1)"
+            "raw": "#8c7f7a",
+            "hex": "#8c7f7a",
+            "rgba": "rgba(140, 127, 122, 1)"
           },
           {
             "name": "--color-primary-dark",
             "namePretty": "Primary dark",
-            "raw": "#3c342b",
-            "hex": "#3c342b",
-            "rgba": "rgba(60, 52, 43, 1)"
+            "raw": "#4c4542",
+            "hex": "#4c4542",
+            "rgba": "rgba(76, 69, 66, 1)"
           }
         ],
         "secondary": [],
@@ -538,10 +538,10 @@ const patternManifest_1524066669079 = {
         "accent": []
       },
       "coloursRaw": {
-        "--color-primary-light": "#c5c2b9",
-        "--color-primary": "#a19582",
-        "--color-primary-medium": "#7d6c59",
-        "--color-primary-dark": "#3c342b",
+        "--color-primary-light": "#d9c4bc",
+        "--color-primary": "#998b85",
+        "--color-primary-medium": "#8c7f7a",
+        "--color-primary-dark": "#4c4542",
         "--color-white": "#fff",
         "--color-light-grey": "#e4e4e4",
         "--color-black": "#383838"
@@ -555,10 +555,10 @@ const patternManifest_1524066669079 = {
         "name": "Exhibit2",
         "fontURL": "https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i",
         "backgroundColor": "#e4e4e4",
-        "accentColor": "#7d6c59",
+        "accentColor": "#4c4542",
         "fontUrl": "https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i",
         "backgroundColour": "#e4e4e4",
-        "accentColour": "#7d6c59",
+        "accentColour": "#4c4542",
         "interfaceColours": {
           "primary": 0,
           "opposite": 255
@@ -1046,5 +1046,5 @@ const patternManifest_1524066669079 = {
   }
 };
 
-patternBotIncludes(patternManifest_1524066669079);
+patternBotIncludes(patternManifest_1524066760870);
 }());
