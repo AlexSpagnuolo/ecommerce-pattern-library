@@ -3,7 +3,7 @@ fieldset {
 }
 
 .flag-optional {
-  color: color: var(--color-primary-medium);
+  color: var(--color-primary-medium);
 }
 
 .is-validated input:invalid,

@@ -4,12 +4,12 @@ footer {
 
 ul {
   list-style-type: none;
-  color: var(--color-primary-light)
+  color: var(--color-primary-light);
 }
 
 a {
   text-decoration: none;
-  color: var(--color-primary-light)
+  color: var(--color-primary-light);
   transition: all .15s ease;
 }
 
