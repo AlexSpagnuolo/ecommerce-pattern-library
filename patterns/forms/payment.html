@@ -26,8 +26,8 @@
       </div>
 
       <div>
-        <label class="inline-block pad-b-1-4" for="cardNumber">Card number</label>
-        <input class="push-1-4" type="text" id="card-number-field" required aria-describedby="cardnumber-error">
+        <label class="inline-block pad-b-1-4" for="cardnumber">Card number</label>
+        <input class="push-1-4" type="text" id="cardnumber" required aria-describedby="cardnumber-error">
         <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="cardnumber-error">
           <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
           <span class="icon-label">Please provide a card number.</span>
@@ -36,7 +36,7 @@
 
       <div>
         <label class="inline-block pad-b-1-4" for="full-name">Cardholder name</label>
-        <input class="push-1-4" type="full-name" id="full-name" required aria-describedby="fullname-error">
+        <input class="push-1-4" type="text" id="full-name" required aria-describedby="fullname-error">
         <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="fullname-error">
           <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
           <span class="icon-label">Please provide a name.</span>
@@ -55,7 +55,7 @@
 
         <div class="unit xs-1-2">
           <label class="inline-block pad-b-1-4" for="cvv">CVV</label>
-          <input class="push-1-4" maxlength="3" type="cvv" id="cvv" required aria-describedby="cvv-error">
+          <input class="push-1-4" maxlength="3" type="text" id="cvv" required aria-describedby="cvv-error">
           <p class="inline error-message milli push-0 pad-t-1-4 pad-b-1-4" id="cvv-error">
             <i class="icon i-16"><svg><use xlink:href="../../images/icons.svg#error" /></svg></i>
             <span class="icon-label">Please provide a CVV.</span>
@@ -69,7 +69,7 @@
     </fieldset>
   </form>
 
-<script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
+  <script src="https://thomasjbradley.github.io/form-validation-helper/index.js"></script>
 
 </body>
 </html>
